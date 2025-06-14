@@ -1,0 +1,33 @@
+[
+
+  {
+    "name": "Weather app",
+    "desc": "A simple and accurate weather app that provides real-time forecasts, temperature, humidity, wind speed, and severe weather alerts for your location.",
+    "image": "weatherapp",
+    "category": "JavaScript",
+    "links": {
+      "view": "https://papaya-moxie-4d5087.netlify.app/",
+      "code": "https://github.com/yuvi1901/Weather_app"
+    }
+  },
+  {
+    "name": "Tic Tac Toe",
+    "desc": "Tic Tac Toe is a two-player game where players take turns marking X or O in a 3×3 grid. The first to align three of their marks horizontally, vertically, or diagonally wins the game.",
+    "image": "gameetic",
+    "category": "JavaScript",
+    "links": {
+      "view": "https://tic-tac-toe-eight-rho-77.vercel.app/",
+      "code": "https://github.com/yuvi1901/Tic_Tac_Toe"
+    }
+  },
+  {
+    "name": "LOADER",
+    "desc": "This loader appears when you're opening the chat, sending a message, or waiting for a response.",
+    "image": "loader",
+    "category": "JavaScript",
+    "links": {
+      "view": "https://loader-blush-nu.vercel.app/",
+      "code": "https://github.com/yuvi1901/LOADER"
+    }
+  } 
+]
